@@ -1,7 +1,5 @@
-node_modules/
-dist/
-activation.json
-electron_debug.log
+*.exe
+*.zip
+*.rar
 .idea/
 .vscode/
-*.bak
